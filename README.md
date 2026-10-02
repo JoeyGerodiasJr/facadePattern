@@ -19,6 +19,7 @@ HomeInterface: The facade class that coordinates interactions between the client
 
 HomeApp: The client class that uses the HomeInterface to access and utilize home services seamlessly.
 ## Class Diagram
+<img width="3568" height="1836" alt="image" src="https://github.com/user-attachments/assets/14828109-d2c2-453d-a5c6-c3376f6676b7" />
 
 
 
