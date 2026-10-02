@@ -1,4 +1,3 @@
-package facadePattern;
 
 public class Light implements HomeService {
 

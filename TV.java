@@ -1,4 +1,3 @@
-package facadePattern;
 
 public class TV implements HomeService {
 
